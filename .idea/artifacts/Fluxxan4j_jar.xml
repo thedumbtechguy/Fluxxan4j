@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Fluxxan4j:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Fluxxan4j_jar</output-path>
+    <root id="archive" name="Fluxxan4j.jar">
+      <element id="module-output" name="Fluxxan4j" />
+    </root>
+  </artifact>
+</component>
