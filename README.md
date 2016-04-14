@@ -1,18 +1,18 @@
 # Fluxxan4j
 
-Fluxxan4j is a Pure java implementation of the Flux Architecture that combines concepts from both Fluxxor and Redux with no external dependencies.
+Fluxxan4j is a Pure Java 6 implementation of the Flux Architecture that combines concepts from both Fluxxor and Redux with no external dependencies.
 
-It is a java 6 port of the Android implementation [Fluxxan](https://github.com/frostymarvelous/Fluxxan).
+It is a port of the Android implementation [Fluxxan](https://github.com/frostymarvelous/Fluxxan).
 
 
 ### Current Version: 1.0.0
 
-Fluxxan4j follows [Semantic Versionioning](http://semver.org/).
+Fluxxan4j follows [Semantic Versioning](http://semver.org/).
 
 ## Installation
 
 ####Manual Installation
-Download the [aar artifact](artifacts/fluxxan4j-1.0.0.jar) from the [artifacts](artifacts/) directory and import it into your project.
+Download the [jar artifact](artifacts/fluxxan4j-1.0.0.jar) from the [artifacts](artifacts/) directory and import it into your project.
 
 ##Introduction
  I won't attempt to teach you the concepts of Flux. There are enough articles on the internet for that. Facebook has a great [introduction to flux here](https://facebook.github.io/flux/docs/overview.html) to get you started.
